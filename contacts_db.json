@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "anuj",
+      "mobile": "9575251002",
+      "email": "anuj@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Aaron",
+      "mobile": "5785664545",
+      "email": "aaron@gmail.com"
+    },
+    {
+      "id": 1687001595342,
+      "name": "rishabh",
+      "mobile": "8548852452",
+      "email": "rishabh@gmail.com"
+    }
+  ]
+}
